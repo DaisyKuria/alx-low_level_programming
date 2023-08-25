@@ -1,14 +1,5 @@
 #include <stdio.h>
 
-/**
- * main - Entry point of the program
- *
- * Description: This function demonstrates how to modify a value indirectly
- * using a pointer.
- *
- * Return: Always 0 (Success)
- */
-int main(void)
 {
 int n;
 int a[5];
